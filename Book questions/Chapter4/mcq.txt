@@ -1,0 +1,24 @@
+Which function in Python checks only at the beginning of a string? 
+a) re.match() 
+
+2. What does the regex pattern \d+ match? 
+b) One or more digits 
+
+3. Which regex will match any string ending with "ing"? 
+b) ing$ 
+
+4. The output of re.findall(r"[aeiou]", "Python Programming") is: 
+b) ['o', 'o', 'a', 'i'] 
+
+5. Which regex matches a valid variable name in Python (letters, numbers, 
+underscores, not starting with digit)? 
+b) ^[A-Za-z_]\w*$ 
+
+6. The metacharacter ^ inside brackets [^...] means: 
+c) Negation (not these characters) 
+
+7. What will be the result of: re.split(r"\s+", "Python is easy") 
+b) ['Python', 'is', 'easy'] 
+
+8. Which function is best for replacing substrings using regex? 
+b) re.sub() 

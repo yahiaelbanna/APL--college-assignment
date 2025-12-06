@@ -1,0 +1,22 @@
+1. SQLite databases are stored in memory only and cannot be written to a file. 
+-> True
+
+
+
+2. Using parameterized queries helps prevent SQL injection attacks. 
+-> True
+
+
+
+3. The rollback() method can undo uncommitted changes in a transaction. 
+-> True
+
+
+
+4. SQLAlchemy provides both Core (SQL Expression Language) and ORM interfaces. 
+-> True
+
+
+
+5. cursor.execute() always returns a list of results. 
+-> False

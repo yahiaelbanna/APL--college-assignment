@@ -1,0 +1,42 @@
+1. Differentiate between re.match() and re.search(). 
+:: re.match() checks only from the start, re.search() checks anywhere
+
+
+
+2. Explain the difference between +, *, and ? quantifiers in regex. 
+:: + (1 or more), * (0 or more), ? (0 or 1)
+
+
+
+3. What is the purpose of named groups in regex? Provide an example. 
+:: Named groups make patterns readable: (?P<name>pattern)
+
+
+
+4. Write a regex to match a date in the format YYYY-MM-DD. 
+:: ^\d{4}-\d{2}-\d{2}$
+
+
+
+
+5. What does the pattern ^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}$ 
+validate? 
+:: Validates email addresses
+
+
+
+6. Why might re.split(r"\s+", text) be preferred over str.split()? 
+:: Handles multiple spaces/tabs; str.split() only single spaces
+
+
+
+7. What is the difference between a raw string (r"pattern") and a normal string in 
+regex? 
+:: Raw strings treat backslashes literally, avoiding escape issues
+
+
+
+8. Explain how re.sub() can be used for text normalization (e.g., removing multiple 
+spaces). 
+:: re.sub(r'\s+', ' ', text) replaces multiple spaces with single
+

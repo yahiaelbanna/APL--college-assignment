@@ -1,0 +1,24 @@
+1. Differentiate between json.load() and json.loads(). 
+:: json.load() reads from file, json.loads() reads from string
+
+
+
+2. Explain the difference between csv.reader and csv.DictReader. 
+:: csv.reader returns lists, csv.DictReader returns dictionaries
+
+
+
+3. Why might we prefer to use pandas for CSV and Excel files instead of the built-in 
+csv module? 
+:: Pandas offers better performance, easier filtering/grouping, and handles missing data
+
+
+
+
+4. How can you write data to multiple sheets in an Excel file using pandas? 
+:: Use pd.ExcelWriter with context manager or specify sheet_name parameter
+
+
+
+5. What are the advantages of JSON over CSV in representing hierarchical data? 
+:: JSON supports nested/hierarchical data, arrays, and data types; CSV is flat tabular

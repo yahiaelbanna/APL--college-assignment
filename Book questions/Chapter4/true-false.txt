@@ -1,0 +1,23 @@
+1. re.match() scans the entire string for a pattern. 
+-> False
+
+2. The regex . matches any character except a newline. 
+-> True
+
+3. Regex \w+ matches only uppercase letters. 
+-> False
+
+4. The regex \d{3} matches exactly three digits. 
+-> True
+
+5. re.sub() can be used for both searching and replacing. 
+-> True
+
+6. Regex patterns in Python are case-sensitive unless re.IGNORECASE is used. 
+-> True
+
+7. re.findall() returns only the first match found. 
+-> False
+
+8. ^Python$ matches the string "I love Python". 
+-> False

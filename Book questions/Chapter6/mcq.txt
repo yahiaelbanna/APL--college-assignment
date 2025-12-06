@@ -1,0 +1,18 @@
+1. Which Python module is used for reading and writing CSV files? 
+b) csv 
+
+
+2. What does csv.DictReader() return when reading a CSV file? 
+b) Dictionary for each row with column names as keys
+
+
+3. Which function is used to convert a Python object into a JSON string? 
+c) json.dumps() 
+
+
+4. What will the following code produce? import pandas as pd df = pd.read_excel("data.xlsx", sheet_name="Sheet1") 
+b) Reads only the specified sheet into a DataFrame 
+
+
+5. Which library must be installed to read/write Excel files with pandas? 
+b) openpyxl 

@@ -1,0 +1,30 @@
+1. What is the difference between fetchone(), fetchmany(n), and fetchall() in 
+database cursors? 
+:: fetchone(): Returns single row, fetchmany(n): Returns n rows, fetchall(): Returns all rows
+
+
+
+
+2. Why are parameterized queries preferred over string concatenation when inserting 
+user input into SQL statements? 
+:: Prevents SQL injection by separating data from SQL commands
+
+
+
+
+3. What is a transaction in databases, and why is it important? 
+:: Transaction = logical unit of work
+
+
+
+
+4. Write the steps (in order) to connect to an SQLite database and insert a row into a 
+table. 
+:: Steps: connect → create cursor → execute INSERT → commit → close
+
+
+
+
+5. Briefly explain how ORM (Object Relational Mapping) improves database handling 
+in Python.
+:: ORM maps Python objects to database tables, allowing OOP-style database access

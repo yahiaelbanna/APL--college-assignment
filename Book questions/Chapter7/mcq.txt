@@ -1,0 +1,23 @@
+1. Which Python module is included in the standard library for working with SQLite 
+databases? 
+c) sqlite3
+
+
+
+2.What does conn.commit() do after an INSERT statement? 
+b) Saves changes permanently in the database 
+
+
+
+3. Which placeholder style is used in parameterized queries with sqlite3? 
+c) ? 
+
+
+
+4. Which method is used to fetch only the first row of a query result? 
+c) fetchone() 
+
+
+
+5. In SQLAlchemy, which class is commonly used to define ORM models? 
+a) Base 

@@ -1,0 +1,22 @@
+1. The csv module automatically converts numbers in a CSV file to integers or floats. 
+-> True
+
+
+
+2. json.dump() writes JSON data directly to a file. 
+-> True
+
+
+
+3. pandas can read both CSV and JSON files into DataFrames. 
+-> True
+
+
+
+4. The default file format supported by pandas.read_excel() is .xlsx. 
+-> True
+
+
+
+5. Excel files can be written using pandas without any external library.
+-> False
