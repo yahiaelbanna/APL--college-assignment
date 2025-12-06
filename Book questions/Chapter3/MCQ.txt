@@ -1,0 +1,16 @@
+Which of the following is a characteristic of a pure function?
+c) Always returns the same output for the same input
+
+Which functional programming concept ensures that once a variable is assigned, it 
+cannot be changed?
+b) Immutability
+
+Which built-in function applies a function to all elements of an iterable and returns an 
+iterator?
+c) map()
+
+Which module provides the reducefunction in Python?
+c) functools
+
+The filter()function in Python returns:
+b) An iterator containing elements that satisfy the condition

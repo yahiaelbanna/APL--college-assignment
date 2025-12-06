@@ -1,0 +1,16 @@
+Functional programming in Python encourages immutability and pure functions.  
+-> True
+
+The map() function modifies the original iterable in place.  
+-> False
+
+Closures allow inner functions to access variables from their enclosing function even 
+after the outer function has finished execution.  
+-> True
+
+The reduce() function is a built-in function in Python and does not require an import.  
+-> False
+
+itertools provide memory-efficient tools for working with iterators, including infinite 
+sequences.  
+-> True
