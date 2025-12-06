@@ -1,0 +1,44 @@
+1. Which Python library is best suited for sending HTTP requests? 
+b) requests 
+
+
+
+
+
+2. Which function in requests is used to fetch a webpage? 
+c) requests.get() 
+
+
+
+
+
+3. In BeautifulSoup, which method is used to extract all <a> tags? 
+c) soup.find_all("a") 
+
+
+
+
+
+4. What does the .text property of a BeautifulSoup element return? 
+c) The inner text of the tag 
+
+
+
+
+
+5. Which library is used to automate interaction with JavaScript-heavy websites? 
+d) Selenium
+
+
+
+
+
+6. Which of the following is an ethical consideration in web scraping? 
+c) Respecting rate limits 
+
+
+
+
+
+7. The compile() function is used in scraping to: 
+d) None of the above 

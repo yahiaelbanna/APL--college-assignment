@@ -1,0 +1,16 @@
+1. The __exit__() method in a context manager is always executed, even if an 
+exception occurs inside the with block. 
+Answer: True 
+
+2. Generators return all values at once like a list. 
+Answer: False 
+
+3. Coroutines can both produce values and receive input using send(). 
+Answer: True 
+
+4. The Factory pattern is used to notify multiple observers when the state of an object 
+changes. 
+Answer: False 
+
+5. Dependency Injection helps reduce coupling between classes. 
+Answer: True 

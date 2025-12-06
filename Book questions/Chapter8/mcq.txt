@@ -1,0 +1,31 @@
+1. Which of the following is NOT a core feature of NumPy?
+c) Web routing and URL mapping
+
+
+2. In Pandas, which method is used to group data for aggregation? 
+c) groupby()
+
+
+3. Which library provides high-level visualization functions like heatmap and 
+pairplot?
+b) Seaborn
+
+
+4. Flask is considered a: 
+a) Micro web framework
+
+
+5. In Django ORM, a database table is typically represented as:
+c) A model class
+
+
+6. Which library uses tensors and is widely used for deep learning?
+a) TensorFlow
+
+
+7. Which of the following can be achieved with SciPy but not directly with NumPy?
+a) Eigenvalues computation
+
+
+8. Which statement is true regarding PyTorch?
+c) It supports dynamic computation graphs

@@ -1,0 +1,28 @@
+1. Explain the difference between NumPy and SciPy. 
+
+:: NumPy: arrays and basic operations; SciPy: advanced scientific functions
+
+
+
+2. What is the purpose of the groupby() function in Pandas? Give an example. 
+
+:: groupby() groups data for aggregation operations
+
+
+
+3. Compare Flask and Django in terms of complexity and use cases. 
+
+:: Flask: lightweight, microframework; Django: full-stack, batteries-included
+
+
+
+4. Why are tensors important in deep learning frameworks like PyTorch and 
+TensorFlow? 
+
+:: Tensors are multi-dimensional arrays essential for deep learning computations
+
+
+
+5. What is the difference between Matplotlib and Seaborn in visualization? 
+
+:: Matplotlib: basic plotting; Seaborn: statistical visualization with better defaults

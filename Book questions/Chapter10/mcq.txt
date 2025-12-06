@@ -1,0 +1,22 @@
+1. Which method is called when entering a context manager block using with? 
+b) __enter__() 
+
+
+
+2. Which keyword is used in Python generators? 
+b) yield 
+
+
+
+3. In the Observer pattern, what is the primary responsibility of the Subject? 
+b) Maintain state and notify observers 
+
+
+
+4. Which design pattern ensures only one instance of a class exists? 
+b) Singleton 
+
+
+
+5. Which of the following is NOT a benefit of Dependency Injection? 
+c) Stronger coupling between classes 

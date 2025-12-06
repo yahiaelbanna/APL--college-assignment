@@ -1,0 +1,38 @@
+1. NumPy arrays are less efficient than Python lists for numerical computations. 
+
+-> False
+
+
+
+2. Pandas DataFrame is a two-dimensional labeled data structure. 
+
+-> True
+
+
+
+
+3. Seaborn is built on top of Matplotlib. 
+
+-> True
+
+
+
+
+4. Flask is heavier and more complex than Django. 
+
+-> False
+
+
+
+
+5. TensorFlow and PyTorch both provide tensor operations and automatic 
+differentiation. 
+
+-> True
+
+
+
+
+6. Django ORM automatically creates SQL queries for models.
+
+-> True

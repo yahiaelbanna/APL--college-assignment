@@ -1,0 +1,24 @@
+1. What is the difference between a generator and a coroutine in Python? 
+Answer: A generator produces values lazily using yield, while a coroutine can also 
+consume values sent into it using send(). Coroutines are often used for event-driven 
+programming and concurrency. 
+
+
+2. Explain why the with statement is preferred over manual resource management. 
+Answer: The with statement ensures resources (like files, sockets, or locks) are automatically cleaned up via __exit__(), even if an exception occurs, making code 
+safer and cleaner. 
+
+
+3. Give a real-world example where the Observer pattern might be applied. 
+Answer: In a stock trading app, multiple UI components (observers) need to be 
+updated whenever stock prices (subject state) change. 
+
+
+4. What problem does the Factory pattern solve? 
+Answer: It abstracts object creation, allowing clients to create objects without 
+depending on their concrete classes. 
+
+
+5. How does Dependency Injection improve testability of code? 
+Answer: It allows dependencies (like services or databases) to be swapped out with 
+mock objects during testing, making unit tests easier and more isolated.

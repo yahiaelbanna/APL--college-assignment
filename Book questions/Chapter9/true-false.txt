@@ -1,0 +1,27 @@
+1. requests.get() returns both the HTML source and status code. 
+
+-> True
+
+
+
+2. BeautifulSoup can directly fetch web pages from the internet. 
+
+-> False
+
+
+
+3. Selenium can be used to fill forms and click buttons on web pages. 
+
+-> True
+
+
+
+4. Scraping a website too frequently can overload the server. 
+
+-> True
+
+
+
+5. Saving data into JSON format requires the csv module. 
+
+-> False

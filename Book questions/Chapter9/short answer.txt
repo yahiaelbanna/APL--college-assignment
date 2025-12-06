@@ -1,0 +1,28 @@
+1. Explain the difference between requests and Selenium in web scraping. 
+
+:: requests fetches static HTML, Selenium handles JavaScript/dynamic content
+
+
+2. What is the purpose of the robots.txt file on a website? 
+
+:: robots.txt indicates which parts of a site can be scraped
+
+
+
+3. Write the difference between .find() and .find_all() methods in BeautifulSoup. 
+
+:: find() returns first match, find_all() returns all matches
+
+
+
+4. Why is it important to use headers like "User-Agent": "Mozilla/5.0" in 
+requests.get()? 
+
+
+:: User-Agent header mimics browser to avoid blocking
+
+
+5. List three possible formats to store scraped data. 
+
+:: CSV, JSON, Database, Excel
+
